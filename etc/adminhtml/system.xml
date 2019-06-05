@@ -44,6 +44,9 @@
                 <field id="magentomapping3" translate="label" sortOrder="58" showInDefault="1" showInWebsite="0" showInStore="0">
                     <label>Magento Role Mapping 3</label>
                 </field>
+
+                TODO : Add config options here for URLs
+
             </group>
         </section>
     </system>

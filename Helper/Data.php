@@ -10,6 +10,7 @@ use \Magento\Framework\UrlInterface;
 
 class Data extends AbstractHelper
 {
+    // TODO : pull these from config values
     const ONELOGIN_METADATA_BASE = 'https://app.onelogin.com/saml/metadata/';
     const ONELOGIN_SSO_BASE = 'https://app.onelogin.com/trust/saml2/http-post/sso/';
     const ONELOGIN_SLO_BASE = 'https://app.onelogin.com/trust/saml2/http-redirect/slo/';
